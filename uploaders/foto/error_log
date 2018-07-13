@@ -1,0 +1,186 @@
+[03-Mar-2018 21:25:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 250
+[03-Mar-2018 21:48:31 UTC] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 153
+[03-Mar-2018 22:10:05 UTC] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 153
+[03-Mar-2018 22:12:28 UTC] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 180
+[03-Mar-2018 22:14:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 34
+[03-Mar-2018 22:17:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 34
+[03-Mar-2018 22:17:51 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 37
+[03-Mar-2018 22:20:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 70
+[03-Mar-2018 22:20:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 70
+[03-Mar-2018 23:14:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 305
+[03-Mar-2018 23:16:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 276
+[03-Mar-2018 23:16:35 UTC] PHP Notice:  Undefined index: filr in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 16
+[03-Mar-2018 23:16:57 UTC] PHP Notice:  Undefined index: file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 16
+[04-Mar-2018 00:05:04 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 35
+[04-Mar-2018 04:55:37 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 21
+[04-Mar-2018 04:55:37 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 183
+[04-Mar-2018 13:19:12 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[04-Mar-2018 13:33:32 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[04-Mar-2018 13:33:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 282
+[04-Mar-2018 14:19:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 109
+[04-Mar-2018 14:21:26 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 109
+[04-Mar-2018 14:21:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 128
+[04-Mar-2018 14:22:40 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 39
+[04-Mar-2018 14:44:36 UTC] PHP Notice:  Array to string conversion in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 34
+[04-Mar-2018 15:27:41 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 39
+[04-Mar-2018 15:29:21 UTC] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 39
+[05-Mar-2018 02:11:08 UTC] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 113
+[06-Mar-2018 15:06:38 America/Sao_Paulo] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 113
+[08-Mar-2018 23:32:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 108
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos5aa1f244e5886.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 53
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Notice:  Undefined variable: NomeImg in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Warning:  fopen(arquivos/): failed to open stream: Is a directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 111
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 112
+[08-Mar-2018 23:32:36 America/Sao_Paulo] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 124
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos5aa298a20271a.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 53
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Notice:  Undefined variable: NomeImg in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Warning:  fopen(arquivos/): failed to open stream: Is a directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 111
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 112
+[09-Mar-2018 11:22:26 America/Sao_Paulo] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 124
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2c87609316.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 53
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Notice:  Undefined variable: NomeImg in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Warning:  fopen(arquivos/): failed to open stream: Is a directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 111
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 112
+[09-Mar-2018 14:46:30 America/Sao_Paulo] PHP Notice:  Undefined variable: user in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 124
+[09-Mar-2018 14:53:03 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2c9ffb07cb.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 53
+[09-Mar-2018 14:53:03 America/Sao_Paulo] PHP Notice:  Undefined variable: NomeImg in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 14:53:03 America/Sao_Paulo] PHP Warning:  fopen(../../arquivos/): failed to open stream: Is a directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 110
+[09-Mar-2018 14:53:03 America/Sao_Paulo] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 111
+[09-Mar-2018 14:53:03 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 112
+[09-Mar-2018 15:19:48 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2d044a4b2f.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 15:28:37 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2d2551ccd0.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 15:28:37 America/Sao_Paulo] PHP Notice:  Undefined index: $nome_cli in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 118
+[09-Mar-2018 15:30:31 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2d2c7b08e7.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 16:08:53 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2dbc51aa6a.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 16:11:11 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2dc4fe2ad7.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 16:11:29 America/Sao_Paulo] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 34
+[09-Mar-2018 16:11:29 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2dc61883a9.gif): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[09-Mar-2018 16:47:15 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2e4c398d0e.gif): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 16:56:55 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2e707b113e.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:01:18 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2e80ee3f78.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:03:04 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2e878138d8.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:12:09 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2ea992d60f.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:15:20 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2eb582a7fa.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:16:33 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2eba1da16f.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:28:27 America/Sao_Paulo] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[09-Mar-2018 17:28:27 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2ee6b90c26.gif): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:31:08 America/Sao_Paulo] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[09-Mar-2018 17:31:08 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2ef0c47ed1.gif): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 17:31:26 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2ef1ec82a4.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 18:11:58 America/Sao_Paulo] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[09-Mar-2018 18:11:58 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa2f89ee656a.gif): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 21:18:22 America/Sao_Paulo] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 15
+[09-Mar-2018 21:18:22 America/Sao_Paulo] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 124
+[09-Mar-2018 21:20:06 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa324b642992.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[09-Mar-2018 21:20:35 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa324d382b26.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 50
+[11-Mar-2018 22:03:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 15
+[11-Mar-2018 22:03:52 America/Sao_Paulo] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 124
+[11-Mar-2018 23:47:20 America/Sao_Paulo] PHP Warning:  require_once(../../usuario/init.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 4
+[11-Mar-2018 23:47:20 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../../usuario/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 4
+[11-Mar-2018 23:56:20 America/Sao_Paulo] PHP Warning:  require_once(../../include/usuario/init.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 4
+[11-Mar-2018 23:56:20 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../../include/usuario/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 4
+[11-Mar-2018 23:58:00 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa5ecb8ceba3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[11-Mar-2018 23:58:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php:48) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 170
+[12-Mar-2018 00:09:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 205
+[12-Mar-2018 00:10:22 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa5ef9e090a3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[12-Mar-2018 00:18:18 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa5f17a8c00f.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 48
+[12-Mar-2018 00:30:44 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa5f464c2097.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 49
+[12-Mar-2018 00:34:11 America/Sao_Paulo] PHP Warning:  imagejpeg(https://www.holodroide.com/sistema/uploaders/foto/fotos/5aa5f533bdb5a.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 49
+[12-Mar-2018 00:41:03 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[12-Mar-2018 00:44:37 America/Sao_Paulo] PHP Warning:  imagejpeg(/foto/fotos/5aa5f7a529656.jpg): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 49
+[12-Mar-2018 00:59:12 America/Sao_Paulo] PHP Notice:  Undefined variable: image in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 36
+[12-Mar-2018 01:02:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 164
+[12-Mar-2018 01:07:00 America/Sao_Paulo] PHP Fatal error:  Call to undefined function compress_image() in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 56
+[12-Mar-2018 01:09:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function compress_image() in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 56
+[12-Mar-2018 01:23:30 America/Sao_Paulo] PHP Warning:  require_once(../../../usuario/include/init.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 4
+[12-Mar-2018 01:23:30 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../../../usuario/include/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 4
+[12-Mar-2018 01:53:30 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 15
+[12-Mar-2018 01:53:30 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 124
+[13-Mar-2018 16:55:56 America/Sao_Paulo] PHP Notice:  Undefined variable: PDO in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 90
+[13-Mar-2018 16:55:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 90
+[15-Mar-2018 13:59:21 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 15
+[15-Mar-2018 13:59:21 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/foto/form_foto.php on line 124
+[15-Mar-2018 14:00:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headerimg' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 141
+[28-Mar-2018 16:09:08 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:09:08 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php1HLilD' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:09:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:12:13 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:12:13 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpV7zpSR' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:12:13 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:12:29 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:12:29 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php8dqocI' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:12:29 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:16:55 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:16:55 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpkfwj0R' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:16:55 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:20:54 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:20:54 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpoppU2M' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:20:54 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:22:07 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:22:07 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpqYdaUy' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:22:07 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 16:27:58 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:27:58 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php7xhmjq' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 16:27:58 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 18:11:14 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:11:14 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpq4YVcF' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:11:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 18:11:52 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:11:52 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpKcJSMB' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:11:52 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 18:12:18 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:12:18 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpUSV0oq' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:12:18 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[28-Mar-2018 18:17:31 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:17:31 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php5L846W' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[28-Mar-2018 18:17:31 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 12:55:30 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 12:55:30 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpz626TY' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 12:55:30 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:00:09 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:00:09 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpFJGhQR' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:00:09 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:01:12 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:01:12 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php4ZWmyR' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:01:12 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:02:04 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:02:04 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpOqqffN' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:02:04 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:22:57 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:22:57 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpp90TDh' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:22:57 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:23:42 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:23:42 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpvb87Ym' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:23:42 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[29-Mar-2018 15:28:47 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:28:47 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpS2QgHA' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 32
+[29-Mar-2018 15:28:47 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 46
+[04-Apr-2018 14:51:59 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 31
+[04-Apr-2018 14:52:00 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/php7W99zD' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 31
+[04-Apr-2018 14:52:00 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 45
+[04-Apr-2018 14:53:24 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 31
+[04-Apr-2018 14:53:25 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpyPnkAn' is not a valid JPEG file in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 31
+[04-Apr-2018 14:53:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/holodroide/public_html/sistema/uploaders/foto/uploader_foto.php on line 45

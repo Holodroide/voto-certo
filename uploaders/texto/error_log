@@ -1,0 +1,92 @@
+[26-Feb-2018 00:39:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:39:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:47:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:47:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:47:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:48:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 217
+[26-Feb-2018 00:49:44 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 144
+[26-Feb-2018 00:51:26 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 21
+[26-Feb-2018 00:51:30 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 21
+[26-Feb-2018 00:52:42 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 20
+[26-Feb-2018 00:52:58 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 20
+[26-Feb-2018 00:52:58 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 146
+[26-Feb-2018 00:56:11 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 146
+[26-Feb-2018 00:56:45 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 146
+[26-Feb-2018 01:01:04 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 130
+[26-Feb-2018 01:03:03 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 130
+[26-Feb-2018 01:06:28 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 130
+[26-Feb-2018 01:13:16 UTC] PHP Notice:  Undefined index: addition in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 126
+[26-Feb-2018 01:13:16 UTC] PHP Notice:  Undefined variable: PHP_SELF in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 179
+[26-Feb-2018 01:13:19 UTC] PHP Notice:  Undefined index: addition in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 126
+[26-Feb-2018 01:13:19 UTC] PHP Notice:  Undefined variable: PHP_SELF in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 179
+[26-Feb-2018 01:17:50 UTC] PHP Notice:  Undefined variable: PHP_SELF in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 181
+[26-Feb-2018 01:20:21 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 136
+[26-Feb-2018 01:20:21 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 138
+[26-Feb-2018 01:33:40 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[26-Feb-2018 18:38:51 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[26-Feb-2018 18:39:20 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[27-Feb-2018 03:57:06 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[27-Feb-2018 03:57:23 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[27-Feb-2018 03:57:34 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[27-Feb-2018 13:08:07 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[28-Feb-2018 20:17:22 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 152
+[01-Mar-2018 00:27:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 241
+[01-Mar-2018 00:28:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 242
+[01-Mar-2018 00:35:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 191
+[01-Mar-2018 01:07:52 UTC] PHP Notice:  Undefined variable: data in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 168
+[03-Mar-2018 21:14:52 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 20
+[03-Mar-2018 21:14:52 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 136
+[03-Mar-2018 22:39:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php:129) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 172
+[05-Mar-2018 02:10:29 UTC] PHP Notice:  Undefined index: nome_cli in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 181
+[06-Mar-2018 03:51:42 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 21
+[06-Mar-2018 03:51:42 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 144
+[09-Mar-2018 18:28:01 America/Sao_Paulo] PHP Notice:  Undefined variable: url in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 203
+[09-Mar-2018 18:29:20 America/Sao_Paulo] PHP Notice:  Undefined variable: url in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 203
+[09-Mar-2018 18:36:23 America/Sao_Paulo] PHP Notice:  Undefined variable: url in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 203
+[09-Mar-2018 18:40:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 197
+[09-Mar-2018 18:40:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 197
+[09-Mar-2018 18:46:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 202
+[09-Mar-2018 18:46:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 202
+[09-Mar-2018 18:47:57 America/Sao_Paulo] PHP Notice:  Undefined variable: quebran in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 198
+[11-Mar-2018 22:03:47 America/Sao_Paulo] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 21
+[11-Mar-2018 22:03:48 America/Sao_Paulo] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 144
+[11-Mar-2018 22:17:29 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:23:13 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:25:55 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:26:02 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:43:21 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:53:23 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 22:54:16 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[11-Mar-2018 23:09:40 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 137
+[11-Mar-2018 23:09:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 35
+[11-Mar-2018 23:13:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 35
+[11-Mar-2018 23:13:21 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 137
+[11-Mar-2018 23:13:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 35
+[11-Mar-2018 23:24:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 33
+[11-Mar-2018 23:25:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 33
+[11-Mar-2018 23:28:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 33
+[11-Mar-2018 23:28:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 33
+[11-Mar-2018 23:29:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 35
+[11-Mar-2018 23:29:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 35
+[11-Mar-2018 23:31:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$sql1' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 45
+[11-Mar-2018 23:33:03 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 45
+[12-Mar-2018 17:05:36 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[12-Mar-2018 17:05:36 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 143
+[12-Mar-2018 18:26:01 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[12-Mar-2018 18:26:01 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 143
+[13-Mar-2018 16:41:34 America/Sao_Paulo] PHP Notice:  Undefined variable: textcnt in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 89
+[13-Mar-2018 16:41:34 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php:89) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 137
+[13-Mar-2018 21:37:23 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[14-Mar-2018 23:42:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[15-Mar-2018 00:02:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headertxt' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 78
+[15-Mar-2018 00:08:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headertxt' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 78
+[15-Mar-2018 00:08:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headertxt' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 78
+[15-Mar-2018 00:09:41 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headertxt' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/texto/uploader_texto.php on line 78
+[15-Mar-2018 17:08:16 America/Sao_Paulo] PHP Notice:  Undefined index: usr_id in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 14
+[15-Mar-2018 17:08:16 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[21-Mar-2018 16:31:41 America/Sao_Paulo] PHP Notice:  Undefined index: usr_id in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 14
+[21-Mar-2018 16:31:41 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[21-Mar-2018 16:31:41 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 146
+[22-Mar-2018 18:57:41 America/Sao_Paulo] PHP Notice:  Undefined index: usr_id in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 14
+[22-Mar-2018 18:57:41 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 21
+[22-Mar-2018 18:57:41 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/texto/form_texto.php on line 146

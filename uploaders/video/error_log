@@ -1,0 +1,156 @@
+[04-Mar-2018 04:55:24 UTC] PHP Warning:  file_get_contents(log/1520139259_1519394232_universal_new.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[04-Mar-2018 17:43:05 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 20
+[04-Mar-2018 17:45:37 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 20
+[04-Mar-2018 17:45:41 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 20
+[04-Mar-2018 17:46:42 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 17:47:36 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 17:47:45 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 17:56:20 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:04:24 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:04:39 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:12:23 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 23
+[04-Mar-2018 18:12:23 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:12:23 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 95
+[04-Mar-2018 18:12:24 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 23
+[04-Mar-2018 18:12:24 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:12:24 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 95
+[04-Mar-2018 18:12:44 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:13:07 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:13:13 UTC] PHP Notice:  Undefined variable: id in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 88
+[04-Mar-2018 18:22:38 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 18:22:38 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 18:23:44 UTC] PHP Warning:  file_get_contents(log/1520187793_1519412551_teste1.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 334
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 334
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 334
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 366
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 366
+[04-Mar-2018 18:23:44 UTC] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 366
+[04-Mar-2018 18:29:42 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 18:29:42 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:18:43 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:18:43 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:18:45 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:18:45 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:18:46 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:18:46 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:18:47 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:18:47 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:20:32 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 340
+[04-Mar-2018 19:23:05 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:23:05 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 19:23:07 UTC] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[04-Mar-2018 19:23:07 UTC] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[04-Mar-2018 21:34:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/holodroide/public_html/sistema/uploaders/video/index.php:88) in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 352
+[04-Mar-2018 21:37:23 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:24 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:25 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:26 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:27 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:28 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:29 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:30 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:31 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:32 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[04-Mar-2018 21:37:33 UTC] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[05-Mar-2018 02:04:11 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 363
+[05-Mar-2018 02:05:00 UTC] PHP Warning:  file_get_contents(log/1520215441_1519394232_universal_new.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[05-Mar-2018 02:05:00 UTC] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[05-Mar-2018 02:05:00 UTC] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[05-Mar-2018 02:05:00 UTC] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[06-Mar-2018 18:55:14 America/Sao_Paulo] PHP Warning:  file_get_contents(log/1520373269_columbia.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[06-Mar-2018 18:55:14 America/Sao_Paulo] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[06-Mar-2018 18:55:14 America/Sao_Paulo] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[06-Mar-2018 18:55:14 America/Sao_Paulo] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 312
+[10-Mar-2018 00:16:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:21 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:21 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:23 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:25 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:26 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:27 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:28 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:30 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:36 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:39 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:39 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:41 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:41 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:43 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:44 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:44 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:45 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:46 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:48 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:48 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:49 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:50 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:52 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:53 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:54 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:16:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:00 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:02 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:04 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:04 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:06 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:08 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:08 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:09 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:10 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:14 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:15 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:16 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:17 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:22 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:23 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:23 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[10-Mar-2018 00:17:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 155
+[11-Mar-2018 22:03:56 America/Sao_Paulo] PHP Notice:  Undefined index: id_cliente in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 31
+[11-Mar-2018 22:03:56 America/Sao_Paulo] PHP Notice:  Undefined index: user_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 103
+[12-Mar-2018 01:30:58 America/Sao_Paulo] PHP Warning:  require_once(../../usuario/init.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 18
+[12-Mar-2018 01:30:58 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../../usuario/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 18
+[12-Mar-2018 01:31:05 America/Sao_Paulo] PHP Warning:  require_once(../../usuario/init.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 18
+[12-Mar-2018 01:31:05 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../../usuario/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 18
+[12-Mar-2018 01:40:01 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 345
+[16-Mar-2018 16:51:41 America/Sao_Paulo] PHP Warning:  file_get_contents(log/1521229101_disney_perfeito.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[16-Mar-2018 16:51:41 America/Sao_Paulo] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[16-Mar-2018 16:51:41 America/Sao_Paulo] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[16-Mar-2018 16:51:41 America/Sao_Paulo] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[16-Mar-2018 16:57:35 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 156
+[16-Mar-2018 16:57:36 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 156
+[16-Mar-2018 16:57:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 156
+[16-Mar-2018 16:58:26 America/Sao_Paulo] PHP Warning:  file_get_contents(log/1521230275_paramount.txt): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/uploaders/video/video_duration.php on line 3
+[16-Mar-2018 16:58:26 America/Sao_Paulo] PHP Notice:  Undefined variable: hours in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[16-Mar-2018 16:58:26 America/Sao_Paulo] PHP Notice:  Undefined variable: minutes in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[16-Mar-2018 16:58:26 America/Sao_Paulo] PHP Notice:  Undefined variable: seconds in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 306
+[21-Mar-2018 16:20:46 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 28
+[21-Mar-2018 16:20:46 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 98
+[22-Mar-2018 13:59:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 156
+[22-Mar-2018 13:59:30 America/Sao_Paulo] PHP Warning:  Division by zero in /home/holodroide/public_html/sistema/uploaders/video/progress_bar.php on line 156
+[28-Mar-2018 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined index: id_cli in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 28
+[28-Mar-2018 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined index: usr_name in /home/holodroide/public_html/sistema/uploaders/video/index.php on line 98

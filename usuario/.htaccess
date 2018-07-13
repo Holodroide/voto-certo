@@ -1,0 +1,17 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^usuario\.holodroide\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.usuario\.holodroide\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "https\:\/\/holodroide\.com\/sistema\/usuario\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^teste\.holodroide\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.teste\.holodroide\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "https\:\/\/holodroide\.com\/sistema\/usuario\/index\-fb\.php" [R=301,L]
+

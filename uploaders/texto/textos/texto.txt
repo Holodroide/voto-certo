@@ -1,0 +1,1 @@
+Subqueries, or subselect statements, are a way to use a result set as a resource in a query. These are of

@@ -1,0 +1,73 @@
+ffmpeg version 3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-7) 20170920
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libvmaf --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 78.100 / 55. 78.100
+  libavcodec     57.107.100 / 57.107.100
+  libavformat    57. 83.100 / 57. 83.100
+  libavdevice    57. 10.100 / 57. 10.100
+  libavfilter     6.107.100 /  6.107.100
+  libswscale      4.  8.100 /  4.  8.100
+  libswresample   2.  9.100 /  2.  9.100
+  libpostproc    54.  7.100 / 54.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'php/uploaded/1526866209_tereza_cristina.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2014-09-09T15:21:36.000000Z
+  Duration: 00:00:14.26, start: 0.000000, bitrate: 2136 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 1942 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)
+    Metadata:
+      creation_time   : 2014-09-09T15:21:36.000000Z
+      handler_name    : IsoMedia File Produced by Google, 5-11-2011
+Please use -b:a or -b:v, -b is ambiguous
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[libx264 @ 0x4116fe0] using SAR=1/1
+[libx264 @ 0x4116fe0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2
+[libx264 @ 0x4116fe0] profile High, level 2.1
+[libx264 @ 0x4116fe0] 264 - core 152 r19 ba24899 - H.264/MPEG-4 AVC codec - Copyleft 2003-2017 - http://www.videolan.org/x264.html - options: cabac=1 ref=5 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=8 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=3 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=20 scenecut=40 intra_refresh=0 rc_lookahead=50 rc=crf mbtree=1 crf=25.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'converted_videos/1526866209_tereza_cristina.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Lavf57.83.100
+    Stream #0:0(und): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 512x288 [SAR 1:1 DAR 16:9], q=-1--1, 800 kb/s, 20 fps, 10240 tbn, 20 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc57.107.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/800000 buffer size: 0 vbv_delay: -1
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 126 kb/s (default)
+    Metadata:
+      creation_time   : 2014-09-09T15:21:36.000000Z
+      handler_name    : IsoMedia File Produced by Google, 5-11-2011
+Past duration 0.665321 too large
+Past duration 0.997993 too large
+frame=   29 fps=0.0 q=0.0 size=       0kB time=00:00:00.97 bitrate=   0.0kbits/s dup=0 drop=11 speed=1.93x    frame=   58 fps= 58 q=0.0 size=       0kB time=00:00:02.43 bitrate=   0.0kbits/s dup=0 drop=26 speed=2.42x    frame=   84 fps= 56 q=30.0 size=       0kB time=00:00:03.90 bitrate=   0.1kbits/s dup=0 drop=39 speed=2.58x    frame=  117 fps= 58 q=30.0 size=       0kB time=00:00:05.85 bitrate=   0.1kbits/s dup=0 drop=55 speed= 2.9x    frame=  148 fps= 59 q=30.0 size=     256kB time=00:00:07.31 bitrate= 286.8kbits/s dup=0 drop=71 speed= 2.9x    frame=  179 fps= 59 q=30.0 size=     256kB time=00:00:08.77 bitrate= 239.0kbits/s dup=0 drop=86 speed= 2.9x    frame=  207 fps= 59 q=30.0 size=     256kB time=00:00:10.24 bitrate= 204.8kbits/s dup=0 drop=100 speed= 2.9x    frame=  239 fps= 59 q=30.0 size=     512kB time=00:00:12.19 bitrate= 344.1kbits/s dup=0 drop=116 speed=3.02x    frame=  270 fps= 59 q=30.0 size=     512kB time=00:00:13.58 bitrate= 308.8kbits/s dup=0 drop=131 speed=2.99x    frame=  287 fps= 54 q=-1.0 Lsize=     887kB time=00:00:14.23 bitrate= 510.5kbits/s dup=0 drop=140 speed=2.67x    
+video:544kB audio:334kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.957293%
+[libx264 @ 0x4116fe0] frame I:2     Avg QP:23.13  size: 33362
+[libx264 @ 0x4116fe0] frame P:269   Avg QP:25.15  size:  1810
+[libx264 @ 0x4116fe0] frame B:16    Avg QP:31.17  size:   190
+[libx264 @ 0x4116fe0] consecutive B-frames: 90.9%  4.2%  2.1%  2.8%
+[libx264 @ 0x4116fe0] mb I  I16..4:  0.7% 47.7% 51.6%
+[libx264 @ 0x4116fe0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 28.2% 10.1%  9.6%  0.0%  0.0%    skip:52.0%
+[libx264 @ 0x4116fe0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8: 17.5%  1.5%  0.2%  direct: 0.4%  skip:80.4%  L0:33.2% L1:59.9% BI: 6.8%
+[libx264 @ 0x4116fe0] 8x8 transform intra:46.5% inter:41.4%
+[libx264 @ 0x4116fe0] direct mvs  spatial:87.5% temporal:12.5%
+[libx264 @ 0x4116fe0] coded y,uvDC,uvAC intra: 95.9% 95.5% 82.9% inter: 16.1% 8.5% 1.0%
+[libx264 @ 0x4116fe0] i16 v,h,dc,p: 11% 78%  0% 11%
+[libx264 @ 0x4116fe0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 14%  6%  7% 12% 11% 12% 12% 15%
+[libx264 @ 0x4116fe0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 15%  5%  7% 14% 13% 12% 10% 14%
+[libx264 @ 0x4116fe0] i8c dc,h,v,p: 53% 22% 11% 13%
+[libx264 @ 0x4116fe0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x4116fe0] ref P L0: 83.0% 11.3%  3.0%  0.9%  0.8%  1.0%
+[libx264 @ 0x4116fe0] ref B L0: 93.2%  5.1%  0.8%  0.9%
+[libx264 @ 0x4116fe0] ref B L1: 97.4%  2.6%
+[libx264 @ 0x4116fe0] kb/s:310.39

@@ -1,0 +1,21 @@
+[10-Apr-2018 16:20:59 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/cli-painel.php on line 77
+[13-Jun-2018 17:33:55 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/cli-painel.php on line 77
+[17-Jun-2018 18:12:06 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/usr-pw-form.php on line 86
+[17-Jun-2018 21:14:27 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/adm-painel.php on line 74
+[18-Jun-2018 13:17:45 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/adm-add-form.php on line 89
+[24-Jun-2018 19:19:30 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/adm-painel.php on line 74
+[24-Jun-2018 20:33:12 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/adm-painel.php on line 74
+[24-Jun-2018 20:43:45 America/Sao_Paulo] PHP Notice:  Undefined index: id_adm in /home/holodroide/public_html/sistema/adm-edit-form.php on line 58
+[26-Jun-2018 00:00:18 America/Sao_Paulo] PHP Notice:  Undefined index: id_adm in /home/holodroide/public_html/sistema/adm-pw-form.php on line 86
+[26-Jun-2018 01:09:28 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/usr-painel.php on line 76
+[26-Jun-2018 12:44:49 America/Sao_Paulo] PHP Notice:  Undefined index: adm_name in /home/holodroide/public_html/sistema/usr-painel.php on line 76
+[26-Jun-2018 19:59:33 America/Sao_Paulo] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/holodroide/public_html/sistema/adm-edit-form.php on line 134
+[26-Jun-2018 19:59:33 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/holodroide/public_html/sistema/adm-edit-form.php on line 134
+[26-Jun-2018 20:14:30 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/holodroide/public_html/sistema/adm-edit.php on line 54
+[26-Jun-2018 20:14:31 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/holodroide/public_html/sistema/adm-edit.php:54) in /home/holodroide/public_html/sistema/adm-edit.php on line 81
+[09-Jul-2018 21:54:38 America/Sao_Paulo] PHP Notice:  Undefined index: cli_id in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 21
+[09-Jul-2018 21:54:38 America/Sao_Paulo] PHP Notice:  Undefined index: cli_name in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 23
+[09-Jul-2018 21:54:38 America/Sao_Paulo] PHP Notice:  Undefined index: cli_img in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 111
+[09-Jul-2018 21:55:24 America/Sao_Paulo] PHP Notice:  Undefined index: cli_id in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 21
+[09-Jul-2018 21:55:24 America/Sao_Paulo] PHP Notice:  Undefined index: cli_name in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 23
+[09-Jul-2018 21:55:24 America/Sao_Paulo] PHP Notice:  Undefined index: cli_img in /home/holodroide/public_html/sistema/usr-relatorio-conteudo.php on line 111

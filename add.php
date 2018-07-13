@@ -8,7 +8,6 @@ $email = isset($_POST['dsc_email_admin']) ? $_POST['dsc_email_admin'] : null;
 $senha = isset($_POST['dsc_senha_admin']) ? $_POST['dsc_senha_admin'] : null;
 
 // testeando new commit
-// outro teste
  
 // validação (bem simples, só pra evitar dados vazios)
 if (empty($name) || empty($email) || empty($senha))
